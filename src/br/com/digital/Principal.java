@@ -8,12 +8,6 @@ public class Principal {
         Filho filhoDois = new Filho ("Maria", "Jorge", "Ana");
 
         System.out.println(saoMeioIrmaos(filhoUm, filhoDois));
-
-        System.out.println("Tairo");
-
-
-
-
     }
     //-------------------------------------------------------------
     public static String maeDe(Filho novoFilho){
